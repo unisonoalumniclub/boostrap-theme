@@ -18,5 +18,8 @@
   "homepage": "https://github.com/unisonoalumniclub/boostrap-theme#readme",
   "dependencies": {
     "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "stylelint-config-twbs-bootstrap": "^3.0.1"
   }
 }
