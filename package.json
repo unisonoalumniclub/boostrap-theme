@@ -1,0 +1,22 @@
+{
+  "name": "boostrap-theme",
+  "version": "1.0.0",
+  "description": "The parent bootstrap theme for web products of UNISONO Alumni Club. It is kept up-to-date with UAC's corporate identity. Use this to build child themes.",
+  "sass": "scss/bootstrap-theme.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unisonoalumniclub/boostrap-theme.git"
+  },
+  "author": "fabianeisenhut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unisonoalumniclub/boostrap-theme/issues"
+  },
+  "homepage": "https://github.com/unisonoalumniclub/boostrap-theme#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
